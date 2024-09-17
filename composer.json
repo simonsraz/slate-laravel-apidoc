@@ -21,7 +21,6 @@
       "url": "https://github.com/simonsraz/slate-laravel-apidoc"
     }
   ],
-  "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
     "php": "^8.0",
