@@ -15,6 +15,7 @@
       "email": "m.pociot@gmail.com"
     }
   ],
+  "minimum-stability": "dev",
   "repositories": [
     {
       "type": "vcs",
