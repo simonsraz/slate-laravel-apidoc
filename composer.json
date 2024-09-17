@@ -16,8 +16,11 @@
   ],
   "require": {
     "php": "^8.0",
-    "illuminate/support": "^10.0"
+    "illuminate/support": "^10.0",
+    "simonsraz/slate-laravel-apidoc": "^1.0"
   },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "autoload": {
     "psr-4": {
       "Mpociot\\ApiDoc\\": "src/"
