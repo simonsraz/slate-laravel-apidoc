@@ -15,13 +15,19 @@
       "email": "m.pociot@gmail.com"
     }
   ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/simonsraz/slate-laravel-apidoc"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "require": {
     "php": "^8.0",
     "illuminate/support": "^10.0",
     "simonsraz/slate-laravel-apidoc": "^1.0"
   },
-  "minimum-stability": "dev",
-  "prefer-stable": true,
   "autoload": {
     "psr-4": {
       "Mpociot\\ApiDoc\\": "src/"
