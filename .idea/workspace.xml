@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5746fbea-9fec-41e2-b3c3-c05dcd01243d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/carbonphp/carbon-doctrine-types" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/conditionable" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/macroable" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/collections" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/support" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2mBo3c2b1Lvtml04l84xSfOdqVd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../slate-api-documentation" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5746fbea-9fec-41e2-b3c3-c05dcd01243d" name="Default Changelist" comment="" />
+      <created>1726559131304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726559131304</updated>
+      <workItem from="1726559132632" duration="111000" />
+      <workItem from="1726559349607" duration="3417000" />
+    </task>
+    <task id="LOCAL-00001" summary="make compitable with laravel 10">
+      <created>1726559176201</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726559176201</updated>
+    </task>
+    <task id="LOCAL-00002" summary="make compitable with laravel 10">
+      <created>1726559530687</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726559530687</updated>
+    </task>
+    <task id="LOCAL-00003" summary="make compitable with laravel 10">
+      <created>1726559688261</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726559688261</updated>
+    </task>
+    <task id="LOCAL-00004" summary="make compitable with laravel 10">
+      <created>1726561288471</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726561288471</updated>
+    </task>
+    <task id="LOCAL-00005" summary="make compitable with laravel 10">
+      <created>1726561577206</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726561577206</updated>
+    </task>
+    <task id="LOCAL-00006" summary="make compitable with laravel 10">
+      <created>1726561684260</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726561684260</updated>
+    </task>
+    <task id="LOCAL-00007" summary="make compitable with laravel 10">
+      <created>1726561865606</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726561865606</updated>
+    </task>
+    <task id="LOCAL-00008" summary="make compitable with laravel 10">
+      <created>1726562005142</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726562005142</updated>
+    </task>
+    <task id="LOCAL-00009" summary="make compitable with laravel 10">
+      <created>1726562156268</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726562156268</updated>
+    </task>
+    <task id="LOCAL-00010" summary="make compitable with laravel 10">
+      <created>1726562368247</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726562368247</updated>
+    </task>
+    <task id="LOCAL-00011" summary="make compitable with laravel 10">
+      <created>1726562451395</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726562451395</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="make compitable with laravel 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="make compitable with laravel 10" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2312" y="88" key="#TODO" timestamp="1726559166995">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2312" y="88" key="#TODO/0.0.1280.680/1920.0.1600.860@1920.0.1600.860" timestamp="1726559166995" />
+    <state x="2320" y="122" key="CommitChangelistDialog2" timestamp="1726562450740">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2320" y="122" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1600.860@1920.0.1600.860" timestamp="1726562450740" />
+    <state x="2500" y="185" key="FileChooserDialogImpl" timestamp="1726559242190">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2500" y="185" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1600.860@1920.0.1600.860" timestamp="1726559242190" />
+    <state x="2312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1726562452755">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2312" y="163" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1600.860@1920.0.1600.860" timestamp="1726562452755" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1726559365947">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1726559365947" />
+  </component>
+</project>

@@ -1,46 +1,40 @@
 {
-  "name": "simonsraz/slate-laravel-apidoc",
-  "license": "MIT",
-  "description": "Generate beautiful API documentation from your Laravel application",
-  "keywords": [
-    "API",
-    "Documentation",
-    "Laravel"
-  ],
-  "homepage": "http://github.com/mpociot/laravel-apidoc-generator",
-  "authors": [
-    {
-      "name": "Marcel Pociot",
-      "email": "m.pociot@gmail.com"
-    }
-  ],
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/simonsraz/slate-laravel-apidoc"
-    }
-  ],
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": "^8.0",
-    "illuminate/support": "^10.0"
-  },
-  "autoload": {
-    "psr-4": {
-      "Mpociot\\ApiDoc\\": "src/"
-    }
-  },
-  "autoload-dev": {
-    "psr-4": {
-      "Mpociot\\ApiDoc\\Tests\\": "tests/"
-    }
-  },
-  "extra": {
-    "laravel": {
-      "providers": [
-        "Mpociot\\ApiDoc\\ApiDocGeneratorServiceProvider"
-      ]
-    }
-  }
+    "name": "simonsraz/own-laravel-package-template",
+    "description": "A minimal Laravel package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simon S Raz",
+            "email": "info@rezzentech.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "illuminate/support": "^10.0",
+        "simonsraz/own-laravel-package-template": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Simonsraz\\OwnLaravelPackageTemplate\\": "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/simonsraz/own-laravel-package-template.git"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Simonsraz\\OwnLaravelPackageTemplate\\OwnLaravelPackageTemplateServiceProvider"
+            ],
+            "aliases": {
+                "YourPackage": "Simonsraz\\OwnLaravelPackageTemplate\\Facades\\OwnlaravelPackageTemplate"
+            }
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
