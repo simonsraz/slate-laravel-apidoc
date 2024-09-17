@@ -2,7 +2,6 @@
   "name": "simonsraz/slate-laravel-apidoc",
   "license": "MIT",
   "description": "Generate beautiful API documentation from your Laravel application",
-  "version": "1.0",
   "keywords": [
     "API",
     "Documentation",
